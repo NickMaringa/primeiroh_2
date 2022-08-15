@@ -1,0 +1,33 @@
+body{
+  backround-color : rgb( 159,182,205)
+}
+h1 {
+ text-aling: center ;
+}
+.menuPrincipal {
+ position: relative ;
+ width: 100% ;
+ height: 45px;
+ backround: rgb(238,154,0)
+ font-family:'Lucida Sans','Lucida Sans Regular', 'Lucida Grande','Lucida Sans Unicode',Geneva ,Verdana ,sans-serif;
+}
+nav ul {
+list-style-type:none;
+margin:0%;
+padding:0%;
+overflow: 0%;
+}
+li {
+  float: letf ;
+}
+li a {
+  display: block ;
+  color : rgb( 112,128,144);
+  text-aling:center;
+  padding: 14px 16px;
+  text-decoration: none ;
+}
+li a: houver{
+  
+  color:  gray;
+  backround: rgb(128,128,128);
